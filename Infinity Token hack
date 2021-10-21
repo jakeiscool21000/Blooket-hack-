@@ -30,7 +30,7 @@ async function addTokens() {
     if (response.status == 200) {
         alert(`${add_tokens} added to your account!`);
     } else {
-        alert('An error occured.');
+        alert('oops');
     };
 
 };
