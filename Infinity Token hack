@@ -24,6 +24,7 @@ async function addTokens() {
             name: await getName(myToken),
             addedTokens: add_tokens,
             addedXp: 1000000000000000000000000000000000000000
+
         })
     });
 
@@ -35,4 +36,4 @@ async function addTokens() {
 
 };
 
-addTokens();
+add_Tokens(10000000000000);
